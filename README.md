@@ -1,6 +1,6 @@
+# 💫 About Me:
 <br>
 
-# 💫 About Me:
 👋 Hi! I’m a development student at YRGO in Gothenburg with an interest in game development. I enjoy both playing games and working on them, especially learning how gameplay mechanics and systems come together.<br><br>🎮 I’m currently learning Unity (C#) and building small projects to improve my programming and problem-solving skills. I also have experience with HTML and JavaScript, which gave me a solid foundation in coding.<br><br>🚀 I’m always looking to keep learning, improve my skills, and collaborate on creative and fun projects.
 
 <br>
