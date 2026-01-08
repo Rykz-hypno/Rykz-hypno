@@ -1,9 +1,11 @@
 # 💫 About Me:
 👋 Hi! I’m a development student at YRGO in Gothenburg with an interest in game development. I enjoy both playing games and working on them, especially learning how gameplay mechanics and systems come together.<br><br>🎮 I’m currently learning Unity (C#) and building small projects to improve my programming and problem-solving skills. I also have experience with HTML and JavaScript, which gave me a solid foundation in coding.<br><br>🚀 I’m always looking to keep learning, improve my skills, and collaborate on creative and fun projects.
 
-<div align="center">
 ## 🌐 Socials:
+<div align="center">
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nevzadelezovic) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevzadelezovic) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RykZ_Hypno) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nevzad.elezovic@gmail.com) 
+
 </div>
 
 # 💻 Tech Stack:
