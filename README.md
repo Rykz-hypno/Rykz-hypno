@@ -11,11 +11,9 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rykz-hypno/Rykz-hypno/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rykz-hypno/Rykz-hypno/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rykz-hypno/Rykz-hypno/output/pacman-contribution-graph.svg">
-</picture>
+![Pacman graph](https://raw.githubusercontent.com/Rykz-hypno/Rykz-hypno/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman graph](https://raw.githubusercontent.com/Rykz-hypno/Rykz-hypno/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rykz-hypno&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
