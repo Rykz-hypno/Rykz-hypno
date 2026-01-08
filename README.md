@@ -28,8 +28,12 @@
 ![Pacman graph](https://raw.githubusercontent.com/Rykz-hypno/Rykz-hypno/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
 <br>
+</div>
 
 # 📊 GitHub Stats:
+
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Rykz-hypno&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rykz-hypno&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rykz-hypno&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
